@@ -36,12 +36,13 @@ O assistente utiliza captura de áudio em tempo real para ouvir a fala do profes
 2. **Crie um arquivo .env e adicione a sua chave da API do Google Gemini**:
 
    ```bash
-       GEMINI_API_KEY=sua_key
+   GEMINI_API_KEY=sua_key
    
 3. **Execute**:
 
    ```bash
-     main.py
+   main.py
+   
 4. **Apartir dai o assistente começará a ouvir a aula e transcrever as melhores rotas para conduzir a aula e auxiliar o professor para melhor proveito da aula.**
 
 ---
