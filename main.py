@@ -46,6 +46,5 @@ def call_realtime():
 
 
 if __name__ == "__main__":
-    print("Ativando assistente de reuniões...")
-    print('Boa reunião')
+    print("Ativando assistente...")
     call_realtime()
